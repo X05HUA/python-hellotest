@@ -1,6 +1,6 @@
 """Top-level implementation of the helloworld program."""
 
-import argparse
+"""import argparse
 import sys
 
 import helloworld
@@ -23,4 +23,7 @@ def main(argv=None):
 
     print("Hello, world")
 
-    return 0
+    return 0"""
+
+def hello_world():
+        print('Hello world from package')
